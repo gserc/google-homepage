@@ -1,0 +1,1 @@
+This is copy of the Google homepage.  It is solely front end design and will not actually search.  On the other hand, the links to Gmail and the other Google pages on the top and bottom of the page work properly.
